@@ -1,4 +1,4 @@
-# Streamer Graphic Design Spam Awareness List
+# Streamer Spam Awareness List
 
 # List Link:
 https://mrzed0.com/?page_id=587&view=topic&id=365#postid-396

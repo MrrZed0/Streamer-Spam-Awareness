@@ -134,3 +134,29 @@ Each entry should include **publicly verifiable information only**:
 - **Frequency:** Reported by multiple streamers
 - **Notes:** Messages appear copy-pasted and sent shortly after streams go live
 
+
+#twitch
+#twitchstreamers
+#twitchcommunity
+#youtubestreamers
+#kickstreaming
+#livestreaming
+#streamerlife
+#graphic
+#graphicdesign
+#graphicdesigner
+#designcommunity
+#digitaldesign
+#branding
+#streamgraphics
+#streamersafety
+#streamerawareness
+#nospam
+#ethicaldesign
+#creatorsupport
+#onlinemarketing
+#contentcreators
+#streamermods
+#moderation
+#communitysafety
+#creatorresources

@@ -1,5 +1,8 @@
 # Streamer Graphic Design Spam Awareness List
 
+# List Link:
+https://mrzed0.com/?page_id=587&view=topic&id=365#postid-396
+
 ## 📌 Purpose
 
 This repository exists to **document and track repeated unsolicited graphic design outreach** directed at Twitch, YouTube, Kick, and other live streamers.
